@@ -272,9 +272,21 @@ html, body{
     margin-bottom: 50px;
 }
 footer{
-    height: 90vh;
+    height: 50vh;
     width: 100%;
     background-color: #EDBFFF;
+}
+footer h6{
+    font-size: 30px;
+    font-family: pp mori;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding-top: 30px;
+    color: #fff;
+}
+footer h6:hover{
+    color: black;
 }
 .box{
     /* background-color: red; */
